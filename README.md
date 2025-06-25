@@ -1,0 +1,2 @@
+# Ejemplo
+Mezcla de colores
